@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Alata-Regular';
+    src: local('Alata-Regular'),
+        url(../fonts/Alata-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'GlacialIndifference-Regular';
+    src: local('GlacialIndifference-Regular'),
+        url(../fonts/GlacialIndifference-Regular.otf) format('opentype');
+}
+@font-face {
+    font-family: 'GlacialIndifference-Bold';
+    src: local('GlacialIndifference-Bold'),
+        url(../fonts/GlacialIndifference-Bold.otf) format('opentype');
+}
